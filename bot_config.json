@@ -1,0 +1,32 @@
+{
+  "monitoring_active": false,
+  "send_notifications": true,
+  "only_with_username": true,
+  "only_premium": false,
+  "target_chat_id": "-1003843783199",
+  "collect_chat_id": "7884094901",
+  "collect_limit": 1000,
+  "monitored_channels": [
+    "https://t.me/prchstikffr",
+    "https://t.me/piarchatzaiii",
+    "https://t.me/catrafff",
+    "https://t.me/piaaarchaaatik",
+    "https://t.me/chatkittx",
+    "https://t.me/ezoterikov",
+    "https://t.me/piarst09",
+    "https://t.me/piarfreelancechat",
+    "https://t.me/freelance5656",
+    "https://t.me/avitotvdd",
+    "https://t.me/yourfreelancework",
+    "https://t.me/vzaimnopiart",
+    "https://t.me/piarchatxsw",
+    "https://t.me/poiarch",
+    "https://t.me/PiarFactory",
+    "https://t.me/piarfreereklama",
+    "https://t.me/vseznayka_chat"
+  ],
+  "collect_channels": [
+    "https://t.me/piarchatzaiii",
+    "https://t.me/vseznayka_chat"
+  ]
+}
